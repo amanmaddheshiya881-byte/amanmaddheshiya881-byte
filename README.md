@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Aman's%20Dark%20Portfolio%20Profile%20Banner.png" width="100%" alt="Aman Maddheshiya Banner">
+</p>
 # 🚀 Aman Maddheshiya | Developer Portfolio
 
 💻 Turning Ideas Into Digital Experiences\</h2>
